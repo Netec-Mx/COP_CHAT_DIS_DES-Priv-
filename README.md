@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Copilot chat en el diseño y desarrollo
 
 Este seminario capacita a los profesionales del diseño en el uso estratégico de Microsoft 365 Copilot como un socio de pensamiento de alta velocidad. A lo largo del curso, los participantes aprenderán a redactar instrucciones avanzadas para acelerar la investigación de mercado, automatizar el desarrollo de conceptos visuales, estructurar argumentos comerciales sólidos y optimizar la gestión operativa de sus proyectos creativos integrando la IA en sus herramientas de uso diario.
@@ -31,6 +33,16 @@ Este seminario capacita a los profesionales del diseño en el uso estratégico d
 - [Consolidación del expediente técnico del proyecto en Word y generación automatizada de la presentación ejecutiva final del diseño para el comité.](Capitulo04/README.md#consolidación-del-expediente-técnico-del-proyecto-en-word-y-generación-automatizada-de-la-presentación-ejecutiva-final-del-diseño-para-el-comité)
   - Descripción: Consolidar el expediente técnico del proyecto en Microsoft Word y generar de forma automatizada la presentación ejecutiva final del diseño para el comité, integrando el uso de Microsoft 365 Copilot en la documentación y comunicación del proyecto.
   - Duración estimada: 60 min
+
+    ---
+
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
 
 ## Flujo de colaboración
 
