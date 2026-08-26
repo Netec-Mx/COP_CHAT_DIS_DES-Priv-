@@ -1,43 +1,30 @@
 # Desarrollo de un tablero de concepto (Moodboard) textual y visual parametrizando los estilos estéticos de un producto piloto
 
-## 1. Metadatos del Laboratorio
-
-| Atributo | Detalle |
-| :--- | :--- |
-| **Duración** | 90 minutos |
-| **Complejidad** | Intermedia-Avanzada - Ideación Creativa, Dirección de Arte y Maquetación Multicanal |
-| **Audiencia** | Diseñadores de producto, directores creativos, equipos de branding y desarrolladores de superficies cerámicas. |
-| **Tecnologías** | Microsoft Copilot Chat (M365 / Web), Microsoft Word, Microsoft Excel y Microsoft PowerPoint. |
-| **Enfoque** | Definición de narrativas estéticas, matriz de especificaciones de producto, generación de maquetas visuales fotorrealistas y consolidación directa de presentación ejecutiva de concepto (Moodboard). |
+## Duración Estimada
+90 minutos
 
 ---
 
-## 2. Descripción Corta
+## Descripción de la Actividad
 
 En este laboratorio práctico de 90 minutos, los participantes utilizarán Microsoft Copilot Chat como socio de ideación creativa para definir, estructurar y exportar el tablero de concepto (Moodboard) de una nueva línea piloto de recubrimientos porcelánicos y cerámicos. A través de 7 fases secuenciales, los estudiantes definirán conceptos creativos en Word, estructurarán especificaciones técnicas en Excel, generarán imágenes fotorrealistas de ambientes y texturas, e integrarán todo el material en un archivo de PowerPoint generado y listo para descargar y presentar.
 
 ---
 
-## 3. Objetivos del Laboratorio
-
-Al finalizar este laboratorio, el estudiante será capaz de:
-* **Desarrollar la narrativa estética y conceptual de un producto piloto** utilizando prompts de ideación creativa en Copilot Chat y documentándolo en Microsoft Word.
-* **Estructurar la matriz de especificaciones de la colección** (formatos, acabados, coeficientes de fricción y colores) exportando los datos limpiamente a Microsoft Excel.
-* **Generar maquetas visuales fotorrealistas de recubrimientos** (planos detalle de textura y ambientes arquitectónicos) con instrucciones parametrizadas en español.
-* **Generar y descargar una presentación completa en Microsoft PowerPoint** que integre automáticamente la narrativa, las tablas de producto y las imágenes del concepto.
+## Objetivos del Laboratorio
+-Desarrollar la narrativa estética y conceptual de un producto piloto utilizando prompts de ideación creativa en Copilot Chat y documentándolo en Microsoft Word.
+-Estructurar la matriz de especificaciones de la colección (formatos, acabados, coeficientes de fricción y colores) exportando los datos limpiamente a Microsoft Excel.
+-Generar maquetas visuales fotorrealistas de recubrimientos (planos detalle de textura y ambientes arquitectónicos) con instrucciones parametrizadas en español.
+-Generar y descargar una presentación completa en Microsoft PowerPoint que integre automáticamente la narrativa, las tablas de producto y las imágenes del concepto.
 
 ---
 
-## 4. Prerrequisitos
-
-* Cuenta activa de **Microsoft Copilot Chat (M365 / Web)** con capacidad de generación visual.
-* Aplicación de **Microsoft Word** abierta.
-* Aplicación de **Microsoft Excel** abierta.
-* Aplicación de **Microsoft PowerPoint** abierta.
+## Prerrequisitos
+- Acceso a Microsoft 365 Copilot Chat (Enterprise / Web).
 
 ---
 
-## 5. Procedimiento Paso a Paso
+## Procedimiento Paso a Paso
 
 ### Fase 1: Ideación Creativa y Definición de la Narrativa del Concepto (Word)
 
@@ -140,7 +127,7 @@ Actúa como un Diseñador de Presentaciones de Producto y Creador de Artefactos.
 
 ---
 
-### Fase 6: Reto de Aplicación Autónoma – Generación y Exportación de Moodboard "Mármol Biofílico"
+### Reto Práctico: Generación y Exportación de Moodboard "Mármol Biofílico"
 
 **Escenario del Reto:** La empresa desarrollará una línea de porcelánicos efecto mármol blanco con vetas verdosas y piezas decorativas cerámicas para muros con relieves botánicos en tono verde salvia. El estudiante debe solicitar a Copilot la generación directa del entregable listo para descarga.
 
@@ -160,7 +147,7 @@ Actúa como un Diseñador de Presentaciones de Producto y Creador de Artefactos.
 
 ---
 
-## 6. Conceptos Clave para Recordar
+## Conceptos Clave para Recordar
 
 * **Generación Directa de Documentos (Artefactos):** Capacidad de Copilot M365 para construir, compilar y entregar archivos nativos (`.pptx`, `.docx`) listos para descarga sin necesidad de copiado y pegado manual.
 * **Moodboard de Producto:** Tablero de concepto visual y táctil que reúne paletas de color, muestras de textura, fotografías de espacio y narrativas para guiar el proceso de diseño industrial o gráfico.
@@ -168,7 +155,7 @@ Actúa como un Diseñador de Presentaciones de Producto y Creador de Artefactos.
 
 ---
 
-## 7. Resultado Esperado del Estudiante
+## Resultado Esperado del Estudiante
 
 El portafolio de evidencias de esta práctica debe incluir:
 
