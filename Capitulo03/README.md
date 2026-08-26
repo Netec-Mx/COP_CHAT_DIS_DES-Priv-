@@ -1,9 +1,11 @@
 # Construcción del caso de negocio y la matriz competitiva que valide comercialmente el lanzamiento del diseño desarrollado.
 
-### Duración Estimada
+## Duración Estimada
 90 minutos
 
-### Descripción de la Actividad
+---
+
+## Descripción de la Actividad
 En este laboratorio práctico, asumirás el rol de un Líder de Innovación y Desarrollo de Producto en Cerámicas del Norte. Utilizando Microsoft 365 Copilot Chat, analizarás la viabilidad comercial de la nueva colección de recubrimientos porcelánicos de gran formato para pisos y muros, evaluando la competencia y construyendo un caso de negocio sólido estructurado para la alta dirección.
 
 ---
@@ -19,6 +21,8 @@ En este laboratorio práctico, asumirás el rol de un Líder de Innovación y De
 - Acceso a Microsoft 365 Copilot Chat (Enterprise / Web).
 
 ---
+
+## Procedimiento Paso a Paso
 
 ### Fase 1: Investigación de Competencia y Benchmark de Mercado
 
