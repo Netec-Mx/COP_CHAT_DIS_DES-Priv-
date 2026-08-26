@@ -14,11 +14,10 @@ En este laboratorio de 60 minutos, los participantes aprenderán a utilizar la e
 
 ## Objetivos del Laboratorio
 
-Al finalizar este laboratorio, el estudiante será capaz de:
-* **Construir prompts estructurados bajo el marco C-O-R-E** para garantizar respuestas precisas de la IA sin ambigüedades.
-* **Aplicar técnicas de metaprompting** (usar la IA para diseñar prompts avanzados) adaptadas al sector de arquitectura, diseño de interiores y recubrimientos.
-* **Sintetizar tendencias globales de diseño de superficies** en un informe técnico documentado en Microsoft Word.
-* **Generar prompts visuales parametrizados para la creación de imágenes** de producto y ambientes arquitectónicos fotorrealistas.
+-Construir prompts estructurados bajo el marco C-O-R-E para garantizar respuestas precisas de la IA sin ambigüedades.
+-Aplicar técnicas de metaprompting (usar la IA para diseñar prompts avanzados) adaptadas al sector de arquitectura, diseño de interiores y recubrimientos.
+-Sintetizar tendencias globales de diseño de superficies en un informe técnico documentado en Microsoft Word.
+-Generar prompts visuales parametrizados para la creación de imágenes de producto y ambientes arquitectónicos fotorrealistas.
 
 ---
 
