@@ -1,24 +1,18 @@
 # Creación de una guía de prompts corporativos parametrizados para la investigación y conceptualización de una nueva marca de producto.
 
-## 1. Metadatos del Laboratorio
 
-| Atributo | Detalle |
-| :--- | :--- |
-| **Duración** | 60 minutos |
-| **Complejidad** | Intermedia - Ingeniería de Prompts Avanzada y Conceptualización Visual |
-| **Audiencia** | Diseñadores gráficos, directores creativos, desarrolladores de producto y equipos de branding. |
-| **Tecnologías** | Microsoft Copilot Chat (M365 / Web) y Microsoft Word. |
-| **Enfoque** | Aplicación del marco C-O-R-E para metaprompting, investigación de tendencias de diseño de recubrimientos cerámicos/porcelánicos y generación de imágenes fotorrealistas. |
+## Duración Estimada
+60 minutos
 
 ---
 
-## 2. Descripción Corta
+## Descripción de la Actividad
 
 En este laboratorio de 60 minutos, los participantes aprenderán a utilizar la estructura metodológica **C-O-R-E** (Contexto, Objetivo, Reglas, Entrega) para redactar prompts parametrizados de alto rendimiento en Microsoft Copilot. A través de 5 fases prácticas, los estudiantes utilizarán metaprompting para construir instrucciones de investigación de mercado, ejecutarán análisis de tendencias globales en revestimientos para pisos y muros redactando un informe en Word, diseñarán prompts avanzados de generación visual y crearán imágenes fotorrealistas de colecciones cerámicas listas para ser compartidas en un reto autónomo final.
 
 ---
 
-## 3. Objetivos del Laboratorio
+## Objetivos del Laboratorio
 
 Al finalizar este laboratorio, el estudiante será capaz de:
 * **Construir prompts estructurados bajo el marco C-O-R-E** para garantizar respuestas precisas de la IA sin ambigüedades.
@@ -28,10 +22,8 @@ Al finalizar este laboratorio, el estudiante será capaz de:
 
 ---
 
-## 4. Prerrequisitos
-
-* Cuenta activa de **Microsoft Copilot Chat (M365 / Web)** con motor de generación visual habilitado.
-* Aplicación de **Microsoft Word** abierta.
+## Prerrequisitos
+- Acceso a Microsoft 365 Copilot Chat (Enterprise / Web).
 
 ---
 
@@ -120,7 +112,7 @@ La escena debe tener iluminación natural suave de mañana entrando por un venta
 
 ---
 
-### Fase 5: Reto de Aplicación Autónoma – Conceptualización de la Colección "Piedra Volcánica & Muros 3D"
+### Reto Práctico: Conceptualización de la Colección "Piedra Volcánica & Muros 3D"
 
 **Escenario del Reto:** La gerencia de diseño requiere lanzar una línea premium llamada "Colección Magna", inspirada en piedras volcánicas oscuras para pisos de alto tráfico y revestimientos cerámicos con relieves 3D geométricos para muros de acento en hoteles boutique.
 
@@ -142,7 +134,7 @@ La escena debe tener iluminación natural suave de mañana entrando por un venta
 
 ---
 
-## 6. Conceptos Clave para Recordar
+## Conceptos Clave para Recordar
 
 * **Estructura C-O-R-E:** Marco metodológico de ingeniería de prompts que divide la instrucción en **C**ontexto (rol y escenario), **O**bjetivo (tarea concreta), **R**eglas (restricciones y guías) y **E**ntrega (formato de salida).
 * **Metaprompting:** Técnica avanzada de IA que consiste en utilizar el modelo de lenguaje para redactar, optimizar o estructurar un prompt más complejo que luego ejecutaremos en la misma o en otra herramienta.
@@ -150,7 +142,7 @@ La escena debe tener iluminación natural suave de mañana entrando por un venta
 
 ---
 
-## 7. Resultado Esperado del Estudiante
+## Resultado Esperado del Estudiante
 
 El portafolio de evidencias de esta práctica debe incluir:
 
