@@ -1,9 +1,11 @@
 # Consolidación del expediente técnico del proyecto en Word y generación automatizada de la presentación ejecutiva final del diseño para el comité.
 
-### Duración Estimada
+## Duración Estimada
 60 minutos
 
-### Descripción de la Actividad
+---
+
+## Descripción de la Actividad
 En este laboratorio práctico, asumirás el rol de Líder de Innovación y Desarrollo de Producto en Cerámicas del Norte. Utilizando Microsoft 365 Copilot Chat, estructurarás la documentación técnica completa de la nueva colección de recubrimientos porcelánicos de gran formato para pisos y muros. Procesarás fichas técnicas, generarás listas de insumos en tabla para su exportación a Microsoft Excel, redactarás la memoria descriptiva para Microsoft Word, estructurarás la presentación final para Microsoft PowerPoint y crearás un prototipo visual comercial.
 
 ---
@@ -21,6 +23,7 @@ En este laboratorio práctico, asumirás el rol de Líder de Innovación y Desar
 - Acceso a Microsoft 365 Copilot Chat (Enterprise / Web).
 
 ---
+## Procedimiento Paso a Paso
 
 ### Fase 1: Consolidación de Especificaciones Técnicas
 
